@@ -1,0 +1,44 @@
+1. Kiểm tra thông số kỹ thuật 🔍
+•	Xác định loại máy: 
+o	Máy nước nóng trực tiếp: Làm nóng nước ngay lập tức, không cần bình chứa.
+o	Máy nước nóng gián tiếp: Có bình chứa, làm nóng trước rồi sử dụng.
+o	Máy nước nóng năng lượng mặt trời: Tiết kiệm điện, dùng năng lượng mặt trời để làm nóng nước.
+o	Máy nước nóng bơm nhiệt (Heat Pump): Tiết kiệm điện hơn so với máy nước nóng truyền thống.
+•	Công suất hoạt động: 
+o	Máy trực tiếp: 3.5kW - 5.5kW.
+o	Máy gián tiếp: Khoảng 2.5kW.
+•	Dung tích bình chứa (đối với máy gián tiếp): 15L - 50L, tùy nhu cầu sử dụng.
+•	Áp lực nước yêu cầu: Máy trực tiếp cần áp lực nước cao, máy gián tiếp linh hoạt hơn.
+________________________________________
+2. Kiểm tra độ an toàn 🛡️
+•	Công nghệ chống giật ELCB: 
+o	Tự động ngắt điện khi phát hiện rò rỉ hoặc quá tải, đảm bảo an toàn khi sử dụng.
+•	Vỏ chống nước tiêu chuẩn IPX: 
+o	Nên chọn máy có tiêu chuẩn IPX4 trở lên để bảo vệ khỏi nước bắn vào.
+•	Cảm biến nhiệt độ: 
+o	Kiểm tra máy có cảm biến tự ngắt khi nước quá nóng (trên 55°C) không?
+•	Chất liệu ruột bình (đối với máy gián tiếp): 
+o	Tráng men, thép không gỉ để tăng độ bền và chống ăn mòn.
+________________________________________
+3. Kiểm tra hiệu suất làm nóng 🌡️
+•	Tốc độ làm nóng: 
+o	Máy trực tiếp: Làm nóng ngay lập tức.
+o	Máy gián tiếp: Cần 10 - 15 phút để làm nóng nước.
+•	Kiểm tra nhiệt độ nước có ổn định không? 
+o	Bật máy chạy thử 5 - 10 phút để kiểm tra sự ổn định.
+•	Khả năng giữ nhiệt (đối với máy gián tiếp): 
+o	Bình tốt có thể giữ nhiệt từ 6 - 8 giờ.
+________________________________________
+4. Đánh giá độ bền và thương hiệu 🏆
+•	Kiểm tra vật liệu vỏ máy: 
+o	Nhựa ABS cao cấp hoặc kim loại chống gỉ giúp tăng độ bền.
+•	Thương hiệu uy tín: 
+o	Nên chọn các thương hiệu lớn như Panasonic, Ariston, Ferroli, Centon, Joven, Electrolux…
+•	Chính sách bảo hành: 
+o	Máy có bảo hành từ 5 - 10 năm sẽ đảm bảo độ bền và chất lượng tốt hơn.
+________________________________________
+📌 Lưu ý khi chọn máy nước nóng
+✅ Chọn loại phù hợp với điều kiện gia đình (áp lực nước, không gian lắp đặt).
+✅ Ưu tiên máy có công nghệ tiết kiệm điện (inverter, heat pump).
+✅ Nếu sử dụng cho nhiều người, nên chọn máy gián tiếp để tiết kiệm điện hơn.
+
